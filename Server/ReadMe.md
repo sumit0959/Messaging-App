@@ -79,7 +79,6 @@ creating a new channel if doesnt't exist
 sending a message
 
 ## To DO:
--  channel - to fetch if already exits
--  seen messages,blue tick feature
+-  Group chat feature.
 -  audio recording 
--  call feature 
+-  Video/audio call feature 
